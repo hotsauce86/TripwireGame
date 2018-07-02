@@ -1,0 +1,11 @@
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\bin\Debug\netstandard2.0\BombTestApp.deps.json
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\bin\Debug\netstandard2.0\BombTestApp.dll
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\bin\Debug\netstandard2.0\BombTestApp.pdb
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.csproj.CoreCompileInputs.cache
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.App.xaml.g.cs
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.MainPage.xaml.g.cs
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.AssemblyInfoInputs.cache
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.AssemblyInfo.cs
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.dll
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.pdb
+C:\Users\tim\source\repos\BombTestApp\BombTestApp\BombTestApp\obj\Debug\netstandard2.0\BombTestApp.csprojResolveAssemblyReference.cache

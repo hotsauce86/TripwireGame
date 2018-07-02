@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BombTestApp"
+             x:Class="BombTestApp.MainPage">
+
+    <StackLayout>
+    
+        <Label Text="Tripwire!"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" 
+               />
+
+        <Label x:Name="HighLabel"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               />
+        
+        <Label x:Name="ScoreLabel"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               />
+
+        <Button Text="1"
+                TextColor="White"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Fill" 
+                BackgroundColor="Red"
+                BorderRadius="5"
+                BorderColor="Aquamarine"
+                Clicked="ButtonClicked"/>
+        <Button Text="2"
+                TextColor="White"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Fill"
+                BackgroundColor="#00bb00"
+                Clicked="ButtonClicked"/>
+        
+        <Button Text="3"
+                TextColor="White"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Fill" 
+                BackgroundColor="Blue"
+                Clicked="ButtonClicked"/>
+
+        <Button Text="4"
+                TextColor="White"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Fill" 
+                BackgroundColor="Orange"
+                Clicked="ButtonClicked"/>
+
+        <Label Text="How many buttons can you click before you trip the bomb?" 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+    </StackLayout>
+    
+</ContentPage>
